@@ -31,3 +31,5 @@ Entry.prototype.getTeaser = function () {
     return firstSentence;
   }
 };
+
+exports.entryBackEnds = Entry;
